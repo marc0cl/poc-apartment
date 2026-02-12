@@ -6,6 +6,19 @@
 
 ## 0) Mandamientos (NO negociables)
 
+## Fuentes del repo (source of truth)
+Este repo considera como “ley”:
+- `docs/ai/protocolo.md`
+- `docs/ai/response_template.md`
+- `docs/ai/memoria_proyecto.md`
+- `docs/ai/quality_gate.md`
+- `docs/ai/pr_spec_template.md`
+- `docs/adr/template_adr.md`
+- `docs/iterations/*`
+
+Regla: toda entrega debe incluir una sección “Fuentes consultadas” con rutas del repo.
+Si falta información: declarar Supuestos (S1, S2...) y proponer ADR si la decisión es estructural.
+
 ### 0.1 Veracidad y anti-alucinación
 - **Prohibido inventar**:
   - APIs, endpoints, flags, librerías, versiones, funciones, comportamientos, resultados de benchmarks o “best practices” sin comprobar.
