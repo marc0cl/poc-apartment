@@ -17,6 +17,8 @@
 - Stack actual:
 - Convenciones del repo:
 - Restricciones:
+- Fuentes consultadas (paths):
+  - ...
 
 ## 4) Diseño propuesto
 ### 4.1 Arquitectura
