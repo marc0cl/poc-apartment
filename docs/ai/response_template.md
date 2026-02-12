@@ -70,6 +70,7 @@
 - Casos borde:
 
 ## 7) Riesgos y mitigaciones
+- Si una decisión afecta arquitectura/seguridad/datos/invariantes: ADR requerido.
 - Riesgo:
 - Mitigación:
 
